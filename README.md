@@ -21,7 +21,8 @@ The home screen for exploring photo spots with smart filtering and search.
 - **Live search:** Instant suggestions as you type
 - **Pull-to-refresh** and skeleton loaders for smooth UX
 
-https://github.com/user-attachments/assets/376453e7-b309-4d04-97fb-22d00e5d0404
+<br/>
+<img src="https://github.com/user-attachments/assets/376453e7-b309-4d04-97fb-22d00e5d0404" width="280" alt="Discover Feed Preview" />
 
 ---
 
@@ -35,7 +36,8 @@ A map-first experience with photo-rich markers and quick spot previews.
 - **Location search:** Google Places + OpenStreetMap powered address search
 - **Quick actions:** Recenter to GPS, fit all markers, rating filters
 
-https://github.com/user-attachments/assets/54b425ad-2509-4f65-92de-b857e3a1a345
+<br/>
+<img src="https://github.com/user-attachments/assets/54b425ad-2509-4f65-92de-b857e3a1a345" width="280" alt="Interactive Map Preview" />
 
 ---
 
@@ -49,7 +51,8 @@ Deep dive into each location with photography-focused tools.
 - **Share & report:** Native share sheet and moderation-ready reporting
 - **Directions:** Open spot in Apple/Google Maps
 
-https://github.com/user-attachments/assets/ae3dd09a-96dd-46e6-bc8b-c4e66ed7585f
+<br/>
+<img src="https://github.com/user-attachments/assets/ae3dd09a-96dd-46e6-bc8b-c4e66ed7585f" width="280" alt="Spot Detail Preview" />
 
 ---
 
@@ -64,7 +67,8 @@ Camera-first flow for contributing new photo locations.
 5. **Location** — GPS or interactive map picker with smart search
 6. **Submit** — spot goes to **admin review** before appearing on the map
 
-https://github.com/user-attachments/assets/c6220e87-9063-4f01-9363-40c50bc1d2df
+<br/>
+<img src="https://github.com/user-attachments/assets/c6220e87-9063-4f01-9363-40c50bc1d2df" width="280" alt="Suggest a Spot Preview" />
 
 ---
 
@@ -78,7 +82,8 @@ Social layer for photographers and spot collectors.
 - **Favorites:** Organize saved spots into custom folders and lists
 - **Swipeable profile tabs** with smooth crossfade animations
 
-https://github.com/user-attachments/assets/b40d39f4-61b9-45a5-aa66-b4c8fedeb700
+<br/>
+<img src="https://github.com/user-attachments/assets/b40d39f4-61b9-45a5-aa66-b4c8fedeb700" width="280" alt="Profiles Preview" />
 
 ---
 
