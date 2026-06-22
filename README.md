@@ -21,8 +21,9 @@ The home screen for exploring photo spots with smart filtering and search.
 - **Live search:** Instant suggestions as you type
 - **Pull-to-refresh** and skeleton loaders for smooth UX
 
-<br/>
-<img src="https://github.com/user-attachments/assets/376453e7-b309-4d04-97fb-22d00e5d0404" width="280" alt="Discover Feed Preview" />
+<p align="left">
+  <img width="384" height="848" alt="Discover" src="https://github.com/user-attachments/assets/0562e046-3cd9-4476-9225-e2e51d2983f6" />
+</p>
 
 ---
 
@@ -36,8 +37,9 @@ A map-first experience with photo-rich markers and quick spot previews.
 - **Location search:** Google Places + OpenStreetMap powered address search
 - **Quick actions:** Recenter to GPS, fit all markers, rating filters
 
-<br/>
-<img src="https://github.com/user-attachments/assets/54b425ad-2509-4f65-92de-b857e3a1a345" width="280" alt="Interactive Map Preview" />
+<p align="left">
+  <img width="384" height="848" alt="Map" src="https://github.com/user-attachments/assets/7d92e864-1412-4b2a-840a-950d32da16cf" />
+</p>
 
 ---
 
@@ -51,8 +53,9 @@ Deep dive into each location with photography-focused tools.
 - **Share & report:** Native share sheet and moderation-ready reporting
 - **Directions:** Open spot in Apple/Google Maps
 
-<br/>
-<img src="https://github.com/user-attachments/assets/ae3dd09a-96dd-46e6-bc8b-c4e66ed7585f" width="280" alt="Spot Detail Preview" />
+<p align="left">
+  <img width="384" height="848" alt="Spot Detail" src="https://github.com/user-attachments/assets/f4bc415a-c394-4eb6-9ac1-f3325d39f0e4" />
+</p>
 
 ---
 
@@ -67,8 +70,9 @@ Camera-first flow for contributing new photo locations.
 5. **Location** — GPS or interactive map picker with smart search
 6. **Submit** — spot goes to **admin review** before appearing on the map
 
-<br/>
-<img src="https://github.com/user-attachments/assets/c6220e87-9063-4f01-9363-40c50bc1d2df" width="280" alt="Suggest a Spot Preview" />
+<p align="left">
+  <img width="384" height="848" alt="Add Spot" src="https://github.com/user-attachments/assets/5f64060a-da47-4fac-a1c2-13a665dca27e" />
+</p>
 
 ---
 
@@ -82,8 +86,9 @@ Social layer for photographers and spot collectors.
 - **Favorites:** Organize saved spots into custom folders and lists
 - **Swipeable profile tabs** with smooth crossfade animations
 
-<br/>
-<img src="https://github.com/user-attachments/assets/b40d39f4-61b9-45a5-aa66-b4c8fedeb700" width="280" alt="Profiles Preview" />
+<p align="left">
+  <img width="384" height="848" alt="Profile" src="https://github.com/user-attachments/assets/c27b4e98-8e84-428a-bb84-37dd0818a5e2" />
+</p>
 
 ---
 
